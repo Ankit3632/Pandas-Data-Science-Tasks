@@ -6,6 +6,6 @@ we use Python Pandas & Python Matplotlib to analyze and answer business question
 
 We start by cleaning our data. Tasks during this section include:
 
-"*"Drop NaN values from DataFrame
+"*" Drop NaN values from DataFrame
 Removing rows based on a condition
 Change the type of columns (to_numeric, to_datetime, astype)
